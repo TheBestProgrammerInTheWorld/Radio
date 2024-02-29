@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Majestic",
+    "Volume": 28.0,
+    "Url": "https://manager6.streamradio.fr:1100/stream",
+    "Date": "2024-02-05T10:48:08.241688-06:00"
+  },
+  {
+    "Name": "BloodStream",
+    "Volume": 8.0,
+    "Url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/live",
+    "Date": "2024-02-06T08:33:09.6781241-06:00"
+  },
+  {
+    "Name": "BDPST ROCK",
+    "Volume": 10.0,
+    "Url": "http://s2.audiostream.hu:8081/bdpstrock_320k",
+    "Date": "2024-02-06T08:44:36.3401548-06:00"
+  },
+  {
+    "Name": "This aint even country bro",
+    "Volume": 22.0,
+    "Url": "https://1000countryhits.stream.laut.fm/1000countryhits?t302=2024-02-06_15-19-37&uuid=401fdb4e-934f-4337-8af0-32d20eeabe6c",
+    "Date": "2024-02-06T09:29:31.4697881-06:00"
+  },
+  {
+    "Name": "Country - SLRadio",
+    "Volume": 20.0,
+    "Url": "https://us1.internet-radio.com/proxy/slradio?mp=/stream;",
+    "Date": "2024-02-06T11:21:49.4304056-06:00"
+  }
+]

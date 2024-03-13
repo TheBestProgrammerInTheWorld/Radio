@@ -34,12 +34,6 @@ namespace Radio
 
         public MainWindow()
         {
-            //timer = new DispatcherTimer();
-            //timer.Interval = TimeSpan.FromSeconds(5);
-            //timer.Tick += TimeElapsed;
-            timer.Start();
-
-
             InitializeComponent();
 
             PopulateTreeView(audioTreeView, directoryPath);
@@ -61,7 +55,7 @@ namespace Radio
             Application.Current.MainWindow.WindowState = WindowState.Minimized;
         }
 
-        private void ButtonMaximize_Click(Object sender, RoutedEventArgs e)
+        private void ButtonMaximize_Click(object sender, RoutedEventArgs e)
         {
             var winstate = Application.Current.MainWindow.WindowState;
 
@@ -348,7 +342,7 @@ namespace Radio
             return stations;
         }
 
-    // CLASSES
+// CLASSES
         public class Station
         {
             public string Name { get; set; }

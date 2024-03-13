@@ -39,3 +39,8 @@ C:\Users\jwireman\source\repos\Radio\bin\Debug\System.Security.Principal.Windows
 C:\Users\jwireman\source\repos\Radio\obj\Debug\Radio.csproj.CopyComplete
 C:\Users\jwireman\source\repos\Radio\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jwireman\source\repos\Radio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jwireman\source\repos\Radio\bin\Debug\EchoPrintSharp.dll
+C:\Users\jwireman\source\repos\Radio\bin\Debug\Iconic.Zlib.Netstandard.dll
+C:\Users\jwireman\source\repos\Radio\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jwireman\source\repos\Radio\bin\Debug\Iconic.Zlib.Netstandard.xml
+C:\Users\jwireman\source\repos\Radio\bin\Debug\System.Diagnostics.DiagnosticSource.xml
